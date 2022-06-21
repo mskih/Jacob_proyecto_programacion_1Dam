@@ -9,7 +9,7 @@
         <dependency><!--El codigo de la dependencia del proyecto con la conexion del base de datos-->
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.19</version>
+            <version>8.0.28</version>
         </dependency>
     </dependencies>
     <properties>
